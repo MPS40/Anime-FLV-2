@@ -1,5 +1,6 @@
 {
-    "apiUrl" : "https://moviesdatabase.p.rapidapi.com/fb1162c86emsh47a9ae5f5496658p17a5fbjsn867056d6cec6",
+    "apiUrl" : "https://api.themoviedb.org/3/movie/550?api_key=4bf07459f2d2c6e1b43b47661b1f802d
+",
 
 	"pushUpdate" : "off",
 
