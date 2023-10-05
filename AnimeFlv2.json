@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api",
+    "apiUrl" : "https://api.themoviedb.org/3/authentication",
 
 	"pushUpdate" : "off",
 
